@@ -6,10 +6,10 @@ public class EquationController {
     private EquationView view;
     private EquationController controller;
 
-    public void onSolveButtonClicked() {
-        try {
-            String input =
-        }
-    }
+//    public void onSolveButtonClicked() {
+//        try {
+//            String input ;
+//        }
+//    }
 
 }
